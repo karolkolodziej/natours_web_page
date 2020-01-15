@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karolkolodziej/natours_web_page.git"
+  },
+  "author": "Karol Kolodziej",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karolkolodziej/natours_web_page/issues"
+  },
+  "homepage": "https://github.com/karolkolodziej/natours_web_page#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
